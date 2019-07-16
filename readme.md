@@ -35,6 +35,7 @@ pip install numpy==1.16.1 -i https://mirrors.aliyun.com/pypi/simple/
 pip install opencv-python
 
 # win32 api 安装
+pip install pywin32  
 
 
 
