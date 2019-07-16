@@ -34,3 +34,8 @@ pip install numpy==1.16.1 -i https://mirrors.aliyun.com/pypi/simple/
 打开cmd  或 powershell  
 pip install opencv-python
 
+#win32 api 安装
+
+
+
+
