@@ -1,14 +1,5 @@
 # Keras安装
 
-## 首先保证Python是3.6以下版本
-
-pip install virtualenv
-
-## windows打开cmd然后启动虚拟环境
-
-virtualenv keras  
-keras\Scripts\activate.bat
-
 ## 设置pip安装源为国内
 
 安装步骤：  
@@ -21,6 +12,17 @@ index-url=https://mirrors.aliyun.com/pypi/simple/
 trusted-host=https://mirrors.aliyun.com/pypi/simple/    
 disable-pip-version-check = true    
 timeout = 6000  
+
+
+## 首先保证Python是3.6以下版本
+
+pip install virtualenv
+
+## windows打开cmd然后启动虚拟环境
+
+virtualenv keras  
+keras\Scripts\activate.bat
+
 
 ## 在目前的环境下安装其它软件包
 
